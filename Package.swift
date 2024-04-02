@@ -15,7 +15,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "RecordKit",
-            url: "https://download.nonstrict.eu/RecordKit.xcframework.zip",
-            checksum: "2a15409f5330e2e3d20b1c97640fabe4b54987590eff8e08460942041c6e7c4c")
+            url: "https://download.nonstrict.eu/RecordKit.xcframework.zip?1328",
+            checksum: "c19ec9a69455c91c291d0c1afdb5e5d280ee0f98dbe72166a5a2630efadbdedc")
     ]
 )
