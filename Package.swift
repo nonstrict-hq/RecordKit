@@ -5,7 +5,7 @@ import PackageDescription
 let package = Package(
     name: "RecordKit",
     platforms: [
-        .mac(.v14)
+        .macOS(.v14)
     ],
     products: [
         .library(
