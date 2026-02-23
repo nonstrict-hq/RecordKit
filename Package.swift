@@ -13,8 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "RecordKit",
-            url: "https://download.nonstrict.eu/recordkit/recordkit-swift-0.78.0.zip",
-            checksum: "e10a803f561b2b06e2c336bb75514153edf6dcede23411f0784a5f47211ebc6d"
+            url: "https://download.nonstrict.eu/recordkit/recordkit-swift-0.79.0-beta.1.zip",
+            checksum: "7213ef25b1be773a7206fdb484ca04d60ca634ea342caf5070621ee2eb13ccdf"
         )
     ]
 )
