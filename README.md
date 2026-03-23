@@ -12,4 +12,4 @@ RecordKit is a screen recording SDK for macOS apps. Enabling simultaneous record
 
 RecordKit is a commercial product that offers a free trial license to evaluate and integrate it into your product. Visit [our website](https://nonstrict.eu/recordkit) to learn more about licensing our solution.
 
-Copyright © 2024 Nonstrict B.V.
+Copyright © 2024-2026 Nonstrict B.V.
