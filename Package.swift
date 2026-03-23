@@ -8,18 +8,12 @@ let package = Package(
     ],
     products: [
         .library(name: "RecordKit", targets: ["RecordKit"]),
-        .library(name: "RecordKitAppStore", targets: ["RecordKitAppStore"]),
     ],
     targets: [
         .binaryTarget(
             name: "RecordKit",
-            url: "https://download.nonstrict.eu/recordkit/recordkit-swift-0.81.0-beta.2.zip",
-            checksum: "4cec574a8866402a104783372f17884326fed5c8cf5494f479b3d40d54cff9a1"
+            url: "https://download.nonstrict.eu/recordkit/recordkit-swift-0.81.0-beta.3.zip",
+            checksum: "5767b426b876a12c9a477d099d6406719c528de46edb3b77b09973e762fbc86a"
         ),
-        .binaryTarget(
-            name: "RecordKitAppStore",
-            url: "https://download.nonstrict.eu/recordkit/recordkit-swift-0.81.0-beta.2-appstore.zip",
-            checksum: "c4c432a1a19854d60a8e5a512902ac0eeee3c45c753dc3d26acf4ef64235a213"
-        )
     ]
 )
