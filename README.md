@@ -8,6 +8,8 @@ RecordKit is a screen recording SDK for macOS apps. Enabling simultaneous record
 - [Getting Started](https://nonstrict.eu/recordkit/try-swift.html)
 - [Full API Reference](https://nonstrict.eu/recordkit/api/swift/documentation/recordkit/)
 
+For AI coding agents, read AGENTS.md before generating integration code.
+
 ## License
 
 RecordKit is a commercial product that offers a free trial license to evaluate and integrate it into your product. Visit [our website](https://nonstrict.eu/recordkit) to learn more about licensing our solution.
