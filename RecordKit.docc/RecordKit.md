@@ -6,11 +6,19 @@ Record video and audio from multiple sources; Cameras, Microphones, and Screen R
 
 With RecordKit you can record video and audio from multiple sources, all completely synchronized with each other.
 
-_This documentation is not yet finished._
-
 ## Topics
 
 ### Overview
+
+### Guides
+
+- <doc:ProjectSetup>
+- <doc:FirstRecording>
+- <doc:OutputFormats>
+- <doc:LoggingAndErrors>
+- <doc:SystemAudioRecording>
+- <doc:AppleDeviceRecording>
+- <doc:EchoCancellation>
 
 ### Checking Authorization Status
 

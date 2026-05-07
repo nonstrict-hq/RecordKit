@@ -1,5 +1,6 @@
 # ``RecordKit/RKAuthorizationStatus``
 
+For the Info.plist keys and entitlements each permission requires, see <doc:ProjectSetup>.
 
 ## Topics
 
@@ -13,3 +14,4 @@
 - ``RKAuthorizationStatusSystemAudioRecordingSource``
 - ``RKAuthorizationStatusInputMonitoringSource``
 - ``RKAuthorizationStatusAccessibilityControlSource``
+- ``RKAuthorizationStatusAccessibilityProcessTrustedSource``

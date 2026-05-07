@@ -8,6 +8,8 @@ If you want better control over the user experience, you can first check if the 
 Some requests return a value indicating if the user clicked _Allow_ or _Deny_, other requests are fire-and-forget.
 These fire-and-forget requests just show a prompt to the user, but don't return a result. The app first needs to be restarted before it gets access to the resource.
 
+For the Info.plist keys and entitlements each permission requires, see <doc:ProjectSetup>.
+
 ## Topics
 
 
@@ -27,7 +29,6 @@ These fire-and-forget requests just show a prompt to the user, but don't return 
 - ``requestCameraAccess()``
 - ``requestMicrophoneAccess()``
 - ``requestScreenRecording()``
-- ``requestSystemAudioRecording()``
 - ``requestSystemAudioRecording(backend:)``
 - ``requestInputMonitoring()``
 - ``requestAccessibilityControl()``

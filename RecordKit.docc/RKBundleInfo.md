@@ -14,9 +14,11 @@
 - ``RKKeyboardEvent``
 - ``RKKeyboardEventType``
 - ``RKKeyboardKeyType``
+- ``RKDiscontinuationEvent``
+- ``RKVideoDimensionChange``
 - ``RKTime``
-- ``RKTimeRange``
 - ``RKColorSpace``
+- ``RKVideoCodec``
 - ``RKWindowPresence``
 - ``RKWindowInfo``
 - ``RKWindowAbsence``
