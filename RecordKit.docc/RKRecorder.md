@@ -20,4 +20,5 @@
 
 - ``setSignalsHandler(_:)``
 - ``SignalsHandler``
+- ``SignalAction``
 - ``Signal``
