@@ -104,6 +104,8 @@ let recorder = RKRecorder([
 ])
 ```
 
+With the Core Audio backend an excluded app stays excluded when it's quit and opened again during the recording.
+
 ### Record Specific Apps
 
 Use include mode when you want audio from selected apps only, for example Zoom.
@@ -120,4 +122,6 @@ let recorder = RKRecorder([
 ```
 
 > Tip: Some apps output audio from background processes. For supported browsers such as Safari and Chrome, RecordKit handles this process routing automatically.
+
+With the Core Audio backend an app that is quit and opened again during the recording is recorded again and the time it was closed is recorded as silence. While it's closed the ``RKRecorder/Signal/Kind/applicationClosed`` signal is raised, so you can let the user know.
 
