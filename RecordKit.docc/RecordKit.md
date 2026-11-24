@@ -19,6 +19,7 @@ With RecordKit you can record video and audio from multiple sources, all complet
 - <doc:SystemAudioRecording>
 - <doc:AppleDeviceRecording>
 - <doc:EchoCancellation>
+- <doc:CrashRecovery>
 
 ### Checking Authorization Status
 
@@ -42,6 +43,10 @@ With RecordKit you can record video and audio from multiple sources, all complet
 ### Recording Output
 
 - ``RKBundleInfo``
+
+### Recovering Interrupted Recordings
+
+- ``RKInterruptedRecording``
 
 ### SwiftUI integration
 

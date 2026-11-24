@@ -16,6 +16,15 @@
 - ``pause()``
 - ``resume()``
 
+### Recovering interrupted recordings
+
+- <doc:CrashRecovery>
+- ``recoverBundles()``
+- ``recoverBundles(in:)``
+- ``interruptedRecordings()``
+- ``interruptedRecordings(in:)``
+- ``RKInterruptedRecording``
+
 ### Reacting to problems during a recording
 
 - ``setSignalsHandler(_:)``
